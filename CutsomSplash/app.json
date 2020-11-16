@@ -1,0 +1,12 @@
+{
+  "name": "CustomSplash",
+  "displayName": "CustomSplash",
+  "expo": {
+    "name": "CustomSplash",
+    "slug": "CustomSplash",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
